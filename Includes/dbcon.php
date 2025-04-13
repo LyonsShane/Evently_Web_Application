@@ -3,6 +3,11 @@
 	$user = "root";
 	$pass = "";
 	$db = "evently";
+
+	$shost = "localhost";
+	$suser = "sql_evently_work";
+	$spass = "44372f11f0a3f8";
+	$sdb = "sql_evently_work";
 	
 	/*$conn = new mysqli($host, $user, $pass, $db);
 	if($conn->connect_error){
@@ -27,7 +32,7 @@
 	}
 	else
 	{
-		$conn = new mysqli($host, $user, $pass, $db);
+		$conn = new mysqli($shost, $suser, $spass, $sdb);
 		$link .= "/";
 	}
 
