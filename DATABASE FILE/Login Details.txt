@@ -1,0 +1,21 @@
+
+---Admin Login Details---
+
+Email   : admin@gmail.com
+Password: 123456
+
+
+
+
+--Customer Login Details---
+
+Email   : wpshaneperera@gmail.com
+Password: 123456
+
+
+
+
+--Vendor Login Details---
+
+Email   : zyntera0@gmail.com
+Password: Zyntera@123
